@@ -6,3 +6,6 @@ git push #傳送
 git pull #回傳
 git checkout <branchname> #切換branch
 git branch #create branch
+
+
+#改
