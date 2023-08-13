@@ -1,11 +1,41 @@
-git clone  #連上雲端
-git add filename
-git add . #新增檔案
-git commit -m "description" #打包
-git push #傳送
-git pull #回傳
-git checkout <branchname> #切換branch
-git branch #create branch
-
-
-#改
+#git note:
+	git clone  #連上雲端
+	git add filename
+	git add . #新增檔案
+	git commit -m "description" #打包
+	git push #傳送
+	git pull #回傳
+	git checkout <branchname> #切換branch
+	git branch #create branch
+===========================================
+#vscode note:
+基礎
+	開啟終端機：CTRL+`
+	關閉檔案：CTRL+W
+	存檔：CTRL+S
+	複製：CTRL+C
+	貼上：CTRL+V
+	剪下：CTRL+X
+操作
+【選取】
+	選取整行：CTRL+L
+	選取一段CODE：CTRL+D
+	選取游標左/右CODE：CTRL+SHIFT+←/→
+【移動】
+	移動整行：ALT+↑/↓
+	複製整行：ALT+SHIFT+上/下移整行
+	刪除整行：CTRL+SHIFT+K
+	到特定行：CTRL+ G
+【縮排】
+	取消縮排：SHIFT+TAB
+	縮排：TAB
+【修改】
+	相同名稱同時修改(取代)：CTRL+SHIFT+L
+	相同變數同時修改(取代)：CTRL+F2
+【視窗】
+	移動視窗：CTRL+↑/↓
+	分割視窗：CTRL+1/2/3
+【游標】
+	游標回上一位置：CTRL+U
+	下方插入：CTRL+ENTER
+	上方插入：CTRL+SHIFT+ENTER
