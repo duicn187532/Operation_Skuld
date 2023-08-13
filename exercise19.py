@@ -16,4 +16,5 @@ with open("data.txt","w",encoding="utf-8")as file:
         if title.a !=None:
             print(title.a.string)
             file.write(title.a.string+"\n")
+#test
     
